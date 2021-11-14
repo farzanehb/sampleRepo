@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5C7A-6DC9
+
+ Directory of C:\Users\F.Bahramnejad\Desktop\sampleGit
+
+14/11/2021  14:03    <DIR>          .
+14/11/2021  14:03    <DIR>          ..
+14/11/2021  14:03                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  104,630,722,560 bytes free
